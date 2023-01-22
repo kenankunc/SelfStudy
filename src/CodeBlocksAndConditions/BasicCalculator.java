@@ -34,6 +34,7 @@ public class BasicCalculator {
                 System.out.println("Çarpma işleminin Sonucu="+ (a*b));
                 break;
             case 4:
+
                 System.out.println("Bölme işleminin Sonucu= "+ (a/b));
                 break;
             default:
