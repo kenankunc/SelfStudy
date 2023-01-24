@@ -69,7 +69,7 @@ public class AvaragePassClass {
         }
 
         if (count== 0){
-            System.out.println("geçebileceğin bir ders yok");
+            System.out.println("Tüm dersler geçersiz değer girilmiştir.");
         }else {
             System.out.println(count);
         double avgGrade = (calculus+physics+turkish+chemical+Music)/count;
